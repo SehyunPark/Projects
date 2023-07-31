@@ -1,3 +1,3 @@
 # Projects
-Repository containing data analysis-related competitions, contests, and personal projects
+Repository containing data analysis-related competitions and personal projects
 
