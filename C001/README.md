@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=52F9F4&text=2nd%20JOISS%20Ocean%20Science%20BigData%20Contest&fontSize=40&fontColor=011B65&height=200)
 
-<div align="center">
+<div align="center", class="contest">
 
 | Category | Description |
 | :--------: | :-----------: |
