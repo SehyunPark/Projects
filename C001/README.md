@@ -4,10 +4,10 @@
 
 | Category | Description |
 | :--------: | :-----------: |
-| Contest Title | 2nd JOISS Ocean Science Big Data Contest |
+| Contest Title | 2nd JOISS Ocean Science BigData Contest |
 | Contest Date | 2022/08/16 ~ 2022/12/02 |
 | Contest Details | ----------- |
-| Contest Submissions | Code(python) <br> Presentation Slides <br> Report |
+| Contest Submissions | Code(python) <br> Presentation Slides |
 | Contest Result | 일반부 우수상(Second Prize) |
 | Media Coverage | [News Coverage](https://www.sedaily.com/NewsView/26F0IMRJAK) <br> [Contest Review - YouTube](https://www.youtube.com/watch?v=GW1l5pFcMxI) |
 
